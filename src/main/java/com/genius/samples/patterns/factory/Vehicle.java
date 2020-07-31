@@ -1,4 +1,4 @@
-package com.genius.samples.patterns;
+package com.genius.samples.patterns.factory;
 
 public interface Vehicle {
 
